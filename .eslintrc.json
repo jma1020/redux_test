@@ -43,6 +43,9 @@
     "no-use-before-define": "off",
     "no-underscore-dangle": "off",
     "no-unused-vars": "warn",
+    "jsx-a11y/no-noninteractive-element-interactions":"off",
+    "jsx-a11y/click-events-have-key-events": "off",
+
     "jsx-a11y/anchor-is-valid": [
       "error",
       {
