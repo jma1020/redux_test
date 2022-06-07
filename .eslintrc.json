@@ -37,6 +37,7 @@
     "import/extensions": "off",
     "react/jsx-props-no-spreading": "off",
     "default-param-last": 0,
+    "no-plusplus":0,
     "no-use-before-define": "off",
     "no-underscore-dangle": "off",
     "no-unused-vars": "warn",
