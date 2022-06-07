@@ -1,9 +1,9 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import './exercise';
 
 function App() {
-  console.log('sadas');
   const rrs = 3;
   return (
     <div className="App">
