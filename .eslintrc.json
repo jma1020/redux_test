@@ -38,6 +38,7 @@
     "react/jsx-props-no-spreading": "off",
     "no-use-before-define": "off",
     "no-underscore-dangle": "off",
+    "no-unused-vars": "warn",
     "jsx-a11y/anchor-is-valid": [
       "error",
       {
